@@ -1,5 +1,6 @@
 title: Git Repository with Dreamhost
 date: 2014/05/20
+tags: Git
 categories:
 - Tutorials
 ---

@@ -1,5 +1,6 @@
 title: Automatic Commits with Gitwatch
 date: 2014/05/22
+tags: Git
 categories:
 - Tutorials
 ---

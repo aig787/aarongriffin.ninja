@@ -1,5 +1,6 @@
 title: GitList on Dreamhost
 date: 2014/05/21
+tags: Git
 categories:
 - Tutorials
 ---
