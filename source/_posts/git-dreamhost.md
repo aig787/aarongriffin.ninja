@@ -1,5 +1,7 @@
 title: Git Repository with Dreamhost
 date: 2014/05/20
+categories:
+- Tutorials
 ---
 
 Over the weekend I decided to look into setting up something that would handle version control for school projects so I would have something to roll back to if I needed. I liked the idea of a GitHub account, but wanted more control so I settled on a self hosted git repository. Fortunately through Dreamhost I already have access to the git binaries and didn't have to compile it myself.  You can check to see if it is installed by default with the "whereis" command while using SSH to access your server. If it isn't you can download the source here.
