@@ -1,6 +1,8 @@
 title: Rules for Good UI Design
 date: 2014-11-21 22:16:54
-categories: Links
+categories: 
+- Links 
+- Advice
 tags: Design
 ---
 
