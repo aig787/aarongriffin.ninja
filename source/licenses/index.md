@@ -2,7 +2,7 @@ title: Open Source Licenses
 date: 2014-11-24 09:07:46
 ---
 
-Site is licensed under [ISC](http://choosealicense.com/licenses/isc/) open source license.
+Site is licensed under [ISC](http://en.wikipedia.org/wiki/ISC_license) open source license.
 
 ```
 Copyright (c) 2014, Aaron Griffin <aaron@aaronscottgriffin.com>
