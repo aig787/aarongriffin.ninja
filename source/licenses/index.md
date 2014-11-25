@@ -2,22 +2,8 @@ title: Open Source Licenses
 date: 2014-11-24 09:07:46
 ---
 
-Site is licensed under [ISC](http://en.wikipedia.org/wiki/ISC_license) open source license.
-
-```
-Copyright (c) 2014, Aaron Griffin <aaron@aaronscottgriffin.com>
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-```
+Site is licensed under the [ISC](http://choosealicense.com/licenses/isc/) license and all source code is available on [GitHub](https://github.com/aig787/aaronscottgriffin.com).
 
 Favicon is adapted from icon by [Paomedia](https://www.iconfinder.com/paomedia) which is under the [Creative Commons (Attribution 3.0 Unported) License](https://creativecommons.org/licenses/by/3.0/us/)
+
+Other Icons: Font Awesome by Dave Gandy - [http://fontawesome.io](http://fontawesome.io)
