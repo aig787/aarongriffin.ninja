@@ -18,4 +18,4 @@ I am also a founding member of the [DevOps club at WWU](https://github.com/WWUDe
 Resume is available on request.
 
 ##Contact info:##
-E-Mail: <aaron@aaronscottgriffin.com>
+E-Mail: <aaron@aarongriffin.ninja>
