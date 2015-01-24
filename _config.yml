@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Aaron Scott Griffin
+title: Aaron Griffin
 subtitle:
 description:
-author: Aaron Scott Griffin
-email: aaron@aaronscottgriffin.com
+author: Aaron Griffin
+email: aaron@aarongriffin.ninja
 language: en-US
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://aaronscottgriffin.com
+url: https://aarongriffin.ninja
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
